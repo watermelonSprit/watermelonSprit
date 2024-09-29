@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**watermelonSprit/watermelonSprit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**
 I am a freshman at Ningbo University, majoring in computer science.
 - 🔭 I’m currently working on deep learning, video generation, VR, and depth estimation.
 - 🌱 I’m currently learning the field I mentioned above.
@@ -14,3 +11,4 @@ I am a freshman at Ningbo University, majoring in computer science.
 - 😄 Pronouns: /ɕɪŋ51/ /yn51/ 
 - ⚡ Fun fact: I will update it later.
 -->
+**
